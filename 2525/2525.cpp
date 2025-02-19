@@ -30,5 +30,6 @@ int main()
     {
         std::cout << hour << " " << minute + needTime << "\n";
     }*/
+
     return 0;
 }
